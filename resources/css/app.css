@@ -1,0 +1,18 @@
+/* Justificar el texto en los párrafos */
+.text-justify {
+    text-align: justify;
+}
+
+/* Aplicar color azul y negrita al texto */
+.text-blue {
+    color: #0051ff; /* Azul oscuro, ajusta el color según tus necesidades */
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+#voiceSearch.active i {
+    transform: scale(1.2); /* Aumenta el tamaño */
+    transition: transform 0.2s ease; /* Suaviza la transición */
+}
